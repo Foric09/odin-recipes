@@ -1,0 +1,50 @@
+.maintitle{
+    text-align: center;
+    font-size: 50px;
+    background-color: black;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+.titles{
+    color:black;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 5%;    
+}
+.indeximg{
+    height: auto;
+    width: 150px;
+}
+
+.recipebody{
+    color:white;
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+}
+
+
+.pageimg{
+    height:auto;
+    width:500px;
+}
+
+#pagetitles, h3{
+    color:black;
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: white;
+}
+
+.centerpage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;    
+}
